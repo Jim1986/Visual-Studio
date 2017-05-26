@@ -1,0 +1,9 @@
+C:\VS\test20170526_Controls\test20170526_Controls\bin\Debug\test20170526_Controls.exe.config
+C:\VS\test20170526_Controls\test20170526_Controls\bin\Debug\test20170526_Controls.exe
+C:\VS\test20170526_Controls\test20170526_Controls\bin\Debug\test20170526_Controls.pdb
+C:\VS\test20170526_Controls\test20170526_Controls\obj\Debug\test20170526_Controls.csprojResolveAssemblyReference.cache
+C:\VS\test20170526_Controls\test20170526_Controls\obj\Debug\test20170526_Controls.Form1.resources
+C:\VS\test20170526_Controls\test20170526_Controls\obj\Debug\test20170526_Controls.Properties.Resources.resources
+C:\VS\test20170526_Controls\test20170526_Controls\obj\Debug\test20170526_Controls.csproj.GenerateResource.Cache
+C:\VS\test20170526_Controls\test20170526_Controls\obj\Debug\test20170526_Controls.exe
+C:\VS\test20170526_Controls\test20170526_Controls\obj\Debug\test20170526_Controls.pdb

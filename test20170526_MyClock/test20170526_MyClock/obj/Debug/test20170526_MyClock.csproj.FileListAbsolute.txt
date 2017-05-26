@@ -1,0 +1,9 @@
+C:\VS\test20170526_MyClock\test20170526_MyClock\bin\Debug\test20170526_MyClock.exe.config
+C:\VS\test20170526_MyClock\test20170526_MyClock\bin\Debug\test20170526_MyClock.exe
+C:\VS\test20170526_MyClock\test20170526_MyClock\bin\Debug\test20170526_MyClock.pdb
+C:\VS\test20170526_MyClock\test20170526_MyClock\obj\Debug\test20170526_MyClock.csprojResolveAssemblyReference.cache
+C:\VS\test20170526_MyClock\test20170526_MyClock\obj\Debug\test20170526_MyClock.Form1.resources
+C:\VS\test20170526_MyClock\test20170526_MyClock\obj\Debug\test20170526_MyClock.Properties.Resources.resources
+C:\VS\test20170526_MyClock\test20170526_MyClock\obj\Debug\test20170526_MyClock.csproj.GenerateResource.Cache
+C:\VS\test20170526_MyClock\test20170526_MyClock\obj\Debug\test20170526_MyClock.exe
+C:\VS\test20170526_MyClock\test20170526_MyClock\obj\Debug\test20170526_MyClock.pdb

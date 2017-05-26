@@ -1,0 +1,9 @@
+C:\VS\test20170526_LayOut\test20170526_LayOut\bin\Debug\test20170526_LayOut.exe.config
+C:\VS\test20170526_LayOut\test20170526_LayOut\bin\Debug\test20170526_LayOut.exe
+C:\VS\test20170526_LayOut\test20170526_LayOut\bin\Debug\test20170526_LayOut.pdb
+C:\VS\test20170526_LayOut\test20170526_LayOut\obj\Debug\test20170526_LayOut.csprojResolveAssemblyReference.cache
+C:\VS\test20170526_LayOut\test20170526_LayOut\obj\Debug\test20170526_LayOut.Form1.resources
+C:\VS\test20170526_LayOut\test20170526_LayOut\obj\Debug\test20170526_LayOut.Properties.Resources.resources
+C:\VS\test20170526_LayOut\test20170526_LayOut\obj\Debug\test20170526_LayOut.csproj.GenerateResource.Cache
+C:\VS\test20170526_LayOut\test20170526_LayOut\obj\Debug\test20170526_LayOut.exe
+C:\VS\test20170526_LayOut\test20170526_LayOut\obj\Debug\test20170526_LayOut.pdb
